@@ -1,4 +1,4 @@
-class Api::V1::PlayersController < ApplicationController
+class Api::V1::ScoresController < ApplicationController
 
   def index
     @scores = Score.all
