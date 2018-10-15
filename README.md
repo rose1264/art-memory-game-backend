@@ -1,24 +1,19 @@
-# README
+# Art Memory Game Project Backend - Ruby on Rails
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+## Project Overview
+ First Impressionist is a art memory game based on traditional card flipping memory game with impressionism art masterpieces. 
+ This is my first project after learning React. The main purpose is trying to refactor the vanilla javascript memory game[https://github.com/rose1264/memory-game-vanilla-javascript] into a React javascript game. 
+ 
+## How to install
+ - Clone or download this repository on your local machine. 
+ - run 'rake db:migrate && rake db:seed && rails s'
+ - Clone or download the frontend of the project[https://github.com/rose1264/art-memory-game-frontend-react] on your local machine. 
+ - run 'npm install && npm start'
 
-Things you may want to cover:
+## Game Instructions
+ - Keep revealing cards to remember each unveiled card. 
+ - Match cards properly with less moves and faster time. 
+ - Enjoy all the art masterworks!
 
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+## Contributing
+When contributing to this repository, please first discuss the change you wish to make via issue, email, or any other method with the owners of this repository before making a change.
