@@ -7,7 +7,7 @@
 ## How to install
  - Clone or download this repository on your local machine. 
  - run 'rake db:migrate && rake db:seed && rails s'
- - Clone or download the frontend of the project[https://github.com/rose1264/art-memory-game-frontend-react] on your local machine. 
+ - Clone or download the frontend of the project[https://github.com/rose1264/first-impressionism-frontend-react] on your local machine. 
  - run 'npm install && npm start'
 
 ## Game Instructions
