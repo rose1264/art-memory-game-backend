@@ -1,4 +1,4 @@
-# Art Memory Game Project Backend - Ruby on Rails
+# First Impressionism Backend - Ruby on Rails
 
 ## Project Overview
  First Impressionist is a art memory game based on traditional card flipping memory game with impressionism art masterpieces. 
